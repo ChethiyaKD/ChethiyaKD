@@ -56,5 +56,5 @@
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chethiya-kusal.me/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chethiyakd/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ChethiyaKD)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Email&logoColor=white)](mailto:hello@chethiya-kusal.me)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@chethiya-kusal.me)
 [![facebook](https://img.shields.io/badge/Facebook-395693?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ChethiyaKD/)
