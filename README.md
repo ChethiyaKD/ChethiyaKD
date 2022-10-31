@@ -4,7 +4,7 @@
 
 🤷🏻‍♂️ I'm Chethiya Kusal, a self learning **Programmer** (specializing in **React** & **Node Js** Applications) and a **Freelancer**. 
 
-🥈 Level 2 Seller on Fiverr
+🥈 Level 2 Seller on Fiverr - Web developer
 
 
 ## 🏅 Experience
