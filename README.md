@@ -21,7 +21,8 @@
 
 ### Front-End Development
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react](https://img.shields.io/badge/React_Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react](https://img.shields.io/badge/React_Native-161C24?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,8 +35,11 @@
 
 ![nodejs](https://img.shields.io/badge/Node_Js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![sql](https://img.shields.io/badge/MySql-205375?style=for-the-badge&logo=mysql&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
 ### Design Tools
 
@@ -44,10 +48,9 @@
 
 ## 🖥️ Workspace Setup
 
-![macbook-air-2017](https://img.shields.io/badge/Macbook_Air_2017-FFFFFF?style=for-the-badge&logo=apple&logoColor=000000)
-![i5-5th-gen](https://img.shields.io/badge/Intel-Core_i5_5th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![intel-6000](https://img.shields.io/badge/Intel_HD_Graphics_6000-3EA6E8?style=for-the-badge&logo=intel&logoColor=white)
-![windows](https://img.shields.io/badge/MacOS_Mojave-19283E?style=for-the-badge&logo=macos&logoColor=white)
+![macbook-pro-m1](https://img.shields.io/badge/Macbook_Pro_M1-FFFFFF?style=for-the-badge&logo=apple&logoColor=000000)
+![i5-5th-gen](https://img.shields.io/badge/Apple_Silicon-M1-0071C5?style=for-the-badge&logo=apple&logoColor=white)
+![windows](https://img.shields.io/badge/MacOS_Ventura-19283E?style=for-the-badge&logo=macos&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
