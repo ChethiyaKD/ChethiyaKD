@@ -10,7 +10,7 @@
 ## 🏅 Experience
 
 -   ☕ Freelance - Web & Chrome extension developer
--   💻 CodeScale LK - Leading web developer & Associate Software Engineer in a startup company (July 2022 - Present)
+-   💻 CodeScale LK - Leading web developer & Software Engineer in a startup company (July 2022 - Present)
 
 ## 🛠️ Skilled in
 
