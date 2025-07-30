@@ -61,3 +61,4 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ChethiyaKD)
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@chethiya-kusal.me)
 [![facebook](https://img.shields.io/badge/Facebook-395693?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ChethiyaKD/)
+[![resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](Chethiya_Kusal_Resume.pdf)
