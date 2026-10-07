@@ -109,6 +109,13 @@ const chethiya = {
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## ✍️ Latest from Medium
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [Read more on Medium](https://chethiyakd.medium.com/)
+
 ## 🐍 Watch My Contributions Get Eaten
 
 <picture>
