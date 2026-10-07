@@ -1,16 +1,52 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />
+## Hey, I'm Chethiya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />
 
-## 🚀 About Me
+```js
+const chethiya = {
+  role: "Full-Stack Developer & Freelancer",
+  focus: ["React", "Next.js", "Node.js", "Chrome Extensions"],
+  learnedBy: "building things, breaking things, shipping things",
+  freelance: "Level 2 Seller on Fiverr",
+  currently: "Leading web development @ CodeScale LK",
+  openTo: ["freelance projects", "collaborations", "interesting ideas"],
+};
+```
 
-🤷🏻‍♂️ I'm Chethiya Kusal, a self learning **Programmer** (specializing in **React** & **Node Js** Applications) and a **Freelancer**. 
+- 🧩 I turn ideas into **web apps** and **browser extensions** people actually use
+- ⚡ Comfortable across the stack, from pixel-perfect UIs to APIs, databases and deployment
+- 🤖 Lately building with **AI & LLM APIs**
+- ✍️ I write about what I learn on [Medium](https://chethiyakd.medium.com/)
 
-🥈 Level 2 Seller on Fiverr - Web developer
+## 🚀 What I Build
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Web Apps</h3>
+      Fast, responsive apps with React & Next.js, backed by Node.js APIs and solid databases.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Chrome Extensions</h3>
+      Manifest V3 extensions that automate, enhance or completely rethink how you use the browser.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Features</h3>
+      LLM-powered chat, summarization and automation wired into real products.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile Apps</h3>
+      Cross-platform apps with React Native, sharing logic with the web.
+    </td>
+  </tr>
+</table>
 
-## 🏅 Experience
+## 💼 Experience
 
--   ☕ Freelance - Web & Chrome extension developer
--   💻 CodeScale LK - Leading web developer & Software Engineer in a startup company (July 2022 - Present)
+| Role                                          | Where                   | When               |
+| :-------------------------------------------- | :---------------------- | :----------------- |
+| 💻 Lead Web Developer & Software Engineer     | CodeScale LK            | Jul 2022 – Present |
+| ☕ Freelance Web & Chrome Extension Developer | Fiverr (Level 2 Seller) | Ongoing            |
 
 ## 🛠️ Skilled in
 
@@ -73,7 +109,6 @@
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ## 🐍 Watch My Contributions Get Eaten
 
 <picture>
@@ -81,5 +116,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChethiyaKD/ChethiyaKD/output/github-snake.svg" />
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ChethiyaKD/ChethiyaKD/output/github-snake.svg" />
 </picture>
-
-
