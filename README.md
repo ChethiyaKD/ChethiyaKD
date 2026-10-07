@@ -18,6 +18,15 @@
 ![html](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chethiya.me)
+[![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://chethiyakd.medium.com/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chethiyakd/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ChethiyaKD)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@chethiya.me)
+[![facebook](https://img.shields.io/badge/Facebook-395693?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ChethiyaKD/)
+[![resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](Chethiya_Kusal_Resume.pdf)
 
 ### Front-End Development
 
@@ -54,11 +63,3 @@
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chethiya-kusal.me/)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chethiyakd/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ChethiyaKD)
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@chethiya-kusal.me)
-[![facebook](https://img.shields.io/badge/Facebook-395693?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ChethiyaKD/)
-[![resume](https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](Chethiya_Kusal_Resume.pdf)
