@@ -112,6 +112,11 @@ const chethiya = {
 ## ✍️ Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [How We Fixed Camera Flipping While Recording in React Native &lpar;The Android Metadata Trap&rpar;](https://chethiyakd.medium.com/how-we-fixed-camera-flipping-while-recording-in-react-native-the-android-metadata-trap-dc477ff14c88?source=rss-6911df2db4c1------2)
+- [I Built an SDK That Could Change How Technical Interviews Work](https://chethiyakd.medium.com/i-built-an-sdk-that-could-change-how-technical-interviews-work-9f8e8ef127b0?source=rss-6911df2db4c1------2)
+- [How to build an Apple Watch app with Expo](https://chethiyakd.medium.com/how-to-build-an-apple-watch-app-with-expo-b254ea3aec6c?source=rss-6911df2db4c1------2)
+- [How I Built a Real-Time Manifest V3 Chrome Extension with FCM](https://chethiyakd.medium.com/how-i-built-a-real-time-manifest-v3-chrome-extension-with-fcm-1e388a0acb11?source=rss-6911df2db4c1------2)
+- [Download and decrypt AES-128 .m3u8 playlists](https://chethiyakd.medium.com/download-and-decrypt-aes-128-m3u8-playlists-57ec134ce704?source=rss-6911df2db4c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on Medium](https://chethiyakd.medium.com/)
